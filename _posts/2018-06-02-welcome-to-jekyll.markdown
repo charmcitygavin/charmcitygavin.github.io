@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-06-02 22:41:36 -0400
-categories: jekyll update
+title:  "Two days until WWDC"
+date:   2018-06-02 23:13:36 -0400
+categories: WWDC
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I'm getting excited. Tomorrow afternoon I hop on my plane for San Jose and [WWDC](wwdc). Last year was my first WWDC, and I was lucky enough to make it through the ticket lottery again this year. I had an amazing time and learned a ton last year, but I regret not taking notes about what I did and the people I met. I've set up this blog hoping to solve that this year.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I've packed all my clothes and plugged in my devices for some overnight charging. This time tomorrow I'll be in San Jose. Maybe out watching the Warriors game somewhere.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[wwdc]: https://developer.apple.com/wwdc/
